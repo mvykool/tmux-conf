@@ -1,7 +1,7 @@
 unbind r
 bind r source ~/.tmux.conf
 
-set -g prefix C-s
+set -g prefix C-x
 
 #act like vim
 setw -g mode-keys vi
